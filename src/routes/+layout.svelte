@@ -1,8 +1,6 @@
 <script>
 	import '$lib/assets/app.css';
 	import favicon from '$lib/assets/favicon.ico';
-	import Header from '$lib/components/header.svelte';
-	import Footer from '$lib/components/footer.svelte';
 	import { page } from '$app/stores';
 
 	function title() {
