@@ -10,7 +10,7 @@
 		const canvas1 = document.getElementById('canvas3d1');
 		// @ts-ignore
 		app1 = new Application(canvas1);
-		app1.load('https://draft.spline.design/dCnFQFZ8ZNGssyxw/scene.splinecode');
+		app1.load('scene.splinecode');
 
 		
 	});
