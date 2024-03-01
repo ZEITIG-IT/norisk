@@ -12,12 +12,7 @@
 		app1 = new Application(canvas1);
 		app1.load('https://draft.spline.design/dCnFQFZ8ZNGssyxw/scene.splinecode');
 
-		const canvas2 = document.getElementById('canvas3d2');
-		// @ts-ignore
-		app2 = new Application(canvas2);
-		app2.load('https://prod.spline.design/Eh-ozo-gyz6NOoty/scene.splinecode');
-		//app2.setVariable("hovered", true)
-		console.log(app2.getVariables());
+		
 	});
 </script>
 
